@@ -5,7 +5,7 @@ namespace MyApp
     {
         static void Main()
         {
-            Sum.run();
+            Calculator.run();
         }
     }
 }
