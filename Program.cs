@@ -5,7 +5,7 @@ namespace MyApp
     {
         static void Main()
         {
-            InputOutput.run();
+            Age.run();
         }
     }
 }
