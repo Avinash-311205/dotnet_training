@@ -1,11 +1,11 @@
 ﻿using System;
-
-namespace Program
+namespace MyApp
 {
     class Program
     {
-        static void Main(){
-            Console.WriteLine("Hello Ullagam!");
+        static void Main()
+        {
+            InputOutput.run();
         }
     }
 }
