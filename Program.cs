@@ -5,7 +5,7 @@ namespace MyApp
     {
         static void Main()
         {
-            Age.run();
+            Sum.run();
         }
     }
 }
